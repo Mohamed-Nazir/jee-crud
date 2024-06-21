@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/sira/Documents/Cours/DIC3/JAKARTA/Workplace/CreateUsers/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1012319871.index
+1107836782.index
+791747197.index
+3440041720.index
+489595320.index
+3097008940.index
