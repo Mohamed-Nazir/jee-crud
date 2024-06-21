@@ -1,8 +1,7 @@
 /build/
-/build/
-.idea/
-.metadata/
-.settings/
+.idea
+.metadata
+.settings
 .classpath
 .project
 cruduser.iml
